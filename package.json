@@ -1,0 +1,15 @@
+{
+  "name": "testesies2023-1",
+  "version": "1.0.0",
+  "description": "Repositório para implementar prática de Introdução à ES relacionada a testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jest/globals": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
