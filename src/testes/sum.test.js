@@ -1,4 +1,4 @@
-const { describe, test, expect } = require("jest");
+const { describe, test, expect } = require("@jest/globals");
 const soma = require("../programas/sum");
 
 describe("testando função de soma", () => {
