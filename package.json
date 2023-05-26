@@ -4,7 +4,7 @@
   "description": "Repositório para implementar prática de Introdução à ES relacionada a testes",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "author": "",
   "license": "ISC",
